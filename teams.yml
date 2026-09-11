@@ -1,8 +1,11 @@
 teams:
   - name: clpr-maintainers
-    maintainers: []
+    maintainers:
       - edward-swirldslabs
-    members: []
+    members:
+      - hendrikebbers
+      - rbair23
+      - jsync-swirlds
   - name: lfdt-staff
     maintainers:
       - ryjones
